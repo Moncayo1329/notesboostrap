@@ -2,6 +2,7 @@
 // es una estructura es una base que puedes para desarrollar tu app o web de forma mas rapida y eficiente. 
 // adaptable 
 
+
 // 3 pilares de boostrap 
 // grid 
 //componentes es un carrosel
@@ -21,3 +22,10 @@
 // viewport
 
 // breakpoint a partir de la cual podemos cambiar el estilo o la estrcutura de la pagina web
+
+// Estructura de la grid 
+// un contenedor puede contener filas y cada fila contiene 12 columnas (container)
+
+// contenedor. 
+//container crea un contenedor responsivo con un ancho maximo fijo que depende del tamano del dispositivo 
+// container-fluid crea un contener responsivo que cubre 100 del ancho de la ventana. 
